@@ -8,6 +8,10 @@ export const theme = {
   fonts: {
     main: "Poppins"
   },
+  shadow: {
+    default: "0px 10px 15px -3px rgba(0, 0, 0, 0.20)",
+    hover: "0px 10px 15px -3px rgba(208, 0, 0, 0.20)",
+  },
   animations: {
     transition: '0.3s ease-in-out',
     scale: 'scale(1.15)'
